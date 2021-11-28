@@ -5,25 +5,27 @@ For more information, check out the package page for [Zappar for A-Frame](https:
 
 ## Preview
 ​
-Scan the QR code below using your native camera app or QR code reader to view the example:
-​
-![Preview QR Code"](preview-qr-code.png)
-
-## Prerequisites
-
-To get started you'll want to print out the example target images, `example-tracking-image.png` and `BusinessCard.png`.
+Scan the given QR codes using your QR code reader to view the example:
 
 
-## Trying the Examples
+##​ Solar system
+![Preview QR Code"](image5.png)
 
-Due to browser restrictions surrounding use of the camera, you must use HTTPS to access the HTML files, even if doing so locally from your computer. You can use the [ZapWorks command-line tool](https://www.npmjs.com/package/@zappar/zapworks-cli) to serve a folder over HTTPS for access on your local computer, like this:
-```
-zapworks serve .
-```
 
-The command also lets you serve the folder for access by other devices on your local network, like this:
-```
-zapworks serve . --lan
-```
+##​ Open a webpage
+![Preview QR Code"](image4.png)
 
-Once this is running, open the link that's output on the console and tap the different HTML files to try the examples. If you'd like to try on a mobile device, ensure it's on the same local network as your computer, then visit the appropriate link in the console output.
+
+##​ Business card magic
+![Preview QR Code"](image3.png)
+
+
+##​ How a human heart works?
+![Preview QR Code"](image2.png)
+
+
+##​ How our solar system works?
+![Preview QR Code"](image1.png)
+
+
+Other code can be found in their respective branches :) 
