@@ -1,7 +1,6 @@
-# Zappar for A-Frame Examples
+# AR examples
 This repository contains an AR example using the Zappar SDK for A-Frame.
 
-For more information, check out the package page for [Zappar for A-Frame](https://www.npmjs.com/package/@zappar/zappar-aframe) (@zappar/zappar-aframe).
 
 ## Preview
 ​
