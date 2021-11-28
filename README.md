@@ -4,7 +4,7 @@ This repository contains an AR example using the Zappar SDK for A-Frame.
 
 ## Preview
 ​
-Scan the given QR codes using your QR code reader to view the example:
+Scan the given QR codes using your QR code reader or using QR scanner integrated in PASA (which will open the AR within the app's browser, no change on PASA needed :D ).
 
 
 ## Solar system
